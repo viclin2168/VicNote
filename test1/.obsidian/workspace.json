@@ -37,24 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "2c85486042255b9f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f13ba54e98642f1a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2-sum/IMX623-AAQV_ApplicationNote_E_Rev1.0.1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "IMX623-AAQV_ApplicationNote_E_Rev1.0.1"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

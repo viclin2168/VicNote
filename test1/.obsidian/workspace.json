@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "aaa/未命名 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7229274541499992",
+  "active": "fe4557be0a52cec7",
   "lastOpenFiles": [
     "未命名 1.md",
-    "未命名 2.md",
+    "aaa/未命名 2.md",
     "未命名.md",
     "Pasted image 20241128223107.png",
     "2-sum/IMX623-AAQV_ApplicationNote_E_Rev1.0.1.pdf",

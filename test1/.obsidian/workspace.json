@@ -11,14 +11,12 @@
             "id": "2b7f034cde9b4837",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2-sum/2-item.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241128223107.png"
               },
-              "icon": "lucide-file",
-              "title": "2-item"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241128223107"
             }
           },
           {
@@ -209,6 +207,7 @@
   },
   "active": "2b7f034cde9b4837",
   "lastOpenFiles": [
+    "2-sum/2-item.md",
     "未命名.md",
     "aaa/未命名 2.md",
     "aaa/RE_ penstone draw animating .msg",
@@ -219,7 +218,6 @@
     "2-sum/IMX623-AAQV_ApplicationNote_E_Rev1.0.1.pdf",
     "2-sum/IMX623_DataSheet_Errata_20220518.pdf",
     "2-sum/3-item.md",
-    "2-sum/2-item.md",
     "1-sum/1-item.md",
     "未命名 1",
     "未命名",

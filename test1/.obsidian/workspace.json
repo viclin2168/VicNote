@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-sum/3-item.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-item"
+              "title": "未命名"
             }
           }
         ],
@@ -196,13 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd17f999ad8cb81",
+  "active": "fe4557be0a52cec7",
   "lastOpenFiles": [
-    "2-sum/2-item.md",
     "2-sum/IMX623-AAQV_ApplicationNote_E_Rev1.0.1.pdf",
-    "1-sum/1-item.md",
-    "2-sum/3-item.md",
     "2-sum/IMX623_DataSheet_Errata_20220518.pdf",
+    "2-sum/3-item.md",
+    "2-sum/2-item.md",
+    "1-sum/1-item.md",
     "未命名 1",
     "未命名.md",
     "未命名",

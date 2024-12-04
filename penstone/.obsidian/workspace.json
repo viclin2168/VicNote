@@ -27,7 +27,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. GW5200/2.2 OSD/未命名.md",
+                "file": "2. GW5200/2.2 OSD/osd mail.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "osd mail"
+            }
+          },
+          {
+            "id": "f07a0f91602d2aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "54cab4e4adcccfd0",
@@ -193,11 +207,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1900c4a788a05537",
+  "active": "f07a0f91602d2aa3",
   "lastOpenFiles": [
+    "2. GW5200/2.2 OSD/osd mail.md",
+    "未命名.md",
     "RE_ penstone draw animating .msg",
     "Welcome.md",
-    "2. GW5200/2.2 OSD/未命名.md",
     "2. GW5200/2.2 OSD",
     "2. GW5200/2.1 cmd",
     "2. GW5200",

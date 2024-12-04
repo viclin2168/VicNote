@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. MCU/未命名 1.md",
+                "file": "2. GW5200/2.2 OSD/osd mail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "osd mail"
             }
           }
         ],
@@ -223,9 +223,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1888fd09eb62972d",
+  "active": "9d49be117bfeaebc",
   "lastOpenFiles": [
-    "3. MCU/未命名 1.md",
+    "3. MCU/MCU url.md",
     "未命名.md",
     "3. MCU",
     "2. GW5200/2.2 OSD/osd mail.md",

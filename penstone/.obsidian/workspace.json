@@ -4,85 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "a736cfcdae2a9b3e",
+        "id": "c69298a668d17a63",
         "type": "tabs",
-        "dimension": 70.58823529411765,
         "children": [
           {
-            "id": "947f928b42abb7ce",
+            "id": "a0c1b22507813323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "0.  Markdown/語法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "語法"
             }
           },
           {
-            "id": "1900c4a788a05537",
+            "id": "afc1b14c1f805dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. GW5200/2.2 OSD/osd mail.md",
+                "file": "4. Nuvoton/ICE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "osd mail"
+              "title": "ICE"
             }
           },
           {
-            "id": "f07a0f91602d2aa3",
+            "id": "66945deb7bc7b58e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "2. GW5200/2.2 OSD/syscfg json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "syscfg json"
             }
           },
           {
-            "id": "9d49be117bfeaebc",
+            "id": "5050457e68e1d987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. GW5200/2.2 OSD/osd mail.md",
+                "file": "3. MicroChip/question/git question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "osd mail"
+              "title": "git question"
+            }
+          },
+          {
+            "id": "b94812bd27043e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.  Markdown/語法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "語法"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "54cab4e4adcccfd0",
-        "type": "tabs",
-        "dimension": 29.411764705882355,
-        "children": [
-          {
-            "id": "1888fd09eb62972d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b203d03070aae581",
@@ -154,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Welcome 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -223,17 +218,41 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9d49be117bfeaebc",
+  "active": "b94812bd27043e13",
   "lastOpenFiles": [
-    "3. MCU/MCU url.md",
-    "未命名.md",
-    "3. MCU",
+    "1. data/pdf.md",
+    "0.  Markdown/語法.md",
+    "3. MicroChip/question/build code.md",
+    "3. MicroChip/question/git question.md",
+    "99. Attachments/Pasted image 20241230161650.png",
+    "99. Attachments/Pasted image 20241230161525.png",
+    "3. MicroChip/MPLAB.md",
+    "3. MicroChip/MCU url.md",
+    "2. GW5200/2.2 OSD/mcu.md",
     "2. GW5200/2.2 OSD/osd mail.md",
-    "RE_ penstone draw animating .msg",
-    "Welcome.md",
-    "2. GW5200/2.2 OSD",
-    "2. GW5200/2.1 cmd",
-    "2. GW5200",
-    "1. data"
+    "2. GW5200/2.2 OSD/syscfg json.md",
+    "2. GW5200/2.2 OSD/mcu code",
+    "99. Attachments/Pasted image 20241225172841.png",
+    "99. Attachments/Pasted image 20241225162927.png",
+    "99. Attachments/Pasted image 20241225112754.png",
+    "99. Attachments/Pasted image 20241225095108.png",
+    "99. Attachments/Pasted image 20241225093747.png",
+    "99. Attachments/Pasted image 20241225093534.png",
+    "99. Attachments/Pasted image 20241225093114.png",
+    "99. Attachments/Pasted image 20241224173625.png",
+    "4. Nuvoton/ICE.md",
+    "99. Attachments/Penstone開發文件.pdf",
+    "4. Nuvoton",
+    "未命名.md",
+    "2. GW5200/2.3 WOI/WIO cmd.md",
+    "0.  Markdown",
+    "2. GW5200/2.1 cmd/2.1.1 api.h/api.h.md",
+    "2. GW5200/2.3 WOI",
+    "99. Attachments/aaa.msg",
+    "99. Attachments/回复_ penstone draw animating .msg",
+    "99. Attachments",
+    "2. GW5200/attachments",
+    "2. GW5200/2.1 cmd/2.1.1 api.h/attachments/20241205-華晶-M1 camera &LCD self study設計需求-報價.pdf",
+    "Welcome.md"
   ]
 }
